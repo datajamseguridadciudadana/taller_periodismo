@@ -1,4 +1,6 @@
-# taller_periodismo
+# Taller de Periodismo de datos
+#DataJamSeguridadCiudadana 
+
  
 Los organizadores se reservan el derecho de adicionar o modificar los Términos y Condiciones del presente documento. 
 Estas modificaciones serán divulgadas a través de los canales de comunicación establecidos 
